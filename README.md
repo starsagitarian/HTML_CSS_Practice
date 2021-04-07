@@ -1,3 +1,3 @@
 # HTML_CSS_Practice
 
-practicing dynamic dropdown with HTML and CSS
+practicing HTML and CSS with a single page website
